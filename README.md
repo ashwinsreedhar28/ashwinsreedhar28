@@ -9,7 +9,3 @@ Backend & AI infrastructure engineer, finishing an MS in Computer Engineering at
 - **[Pulse](https://github.com/ashwinsreedhar28/Pulse)**: local-first macOS news intelligence app with local and Claude LLM routing.
 
 **Open source**: [compile-cache fix](https://github.com/runpod-workers/worker-vllm/pull/351) merged into Runpod's vLLM worker (v2.29.0). Caches torch.compile output on network volumes, cutting ~40–60 s per cold start.
-
-**Before**: platform developer at E&J Gallo: production LLM agents and an automation fleet running 30–50 jobs a day.
-
-Open to new-grad backend / AI infra roles starting January 2027 · [LinkedIn](https://linkedin.com/in/ashwinsreedhar)
