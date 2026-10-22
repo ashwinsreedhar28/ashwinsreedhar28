@@ -17,3 +17,5 @@ Python · TypeScript · SQL · PyTorch · vLLM · Spark · Delta Lake · Snowfla
 Previously Platform Developer at E&J Gallo.
 
 [LinkedIn](https://www.linkedin.com/in/ashwinsreedhar) · ashwin.sreedhar2003@gmail.com
+
+![Space shooter game generated from my GitHub contributions](game.gif)
